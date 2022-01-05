@@ -82,6 +82,7 @@ button {
     border-radius: 5px;
     padding: 14px 35px;
     margin-top: 20px;
+    cursor: pointer;
 }
 
 .content-area {
